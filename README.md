@@ -42,14 +42,13 @@ This project is a web application developed using Nuxt.js, Tailwind CSS, and Pri
 
    ```bash
    git clone https://github.com/mahmoudhamed95/Mazaady-Task.git
-
-Install dependencies:
+2. **Install dependencies:**
+   
   ```bash
   cd mazady-task
-  ```bash
-npm install
+  npm install
+3. **Run the development server:**
 
-Run the development server:
   ```bash
   npm run dev
 
