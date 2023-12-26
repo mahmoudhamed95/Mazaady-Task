@@ -45,8 +45,9 @@ This project is a web application developed using Nuxt.js, Tailwind CSS, and Pri
    
 2. **Install dependencies:**
   cd mazady-task
+  
   npm install
-3. **Run the development server:**
+4. **Run the development server:**
   npm run dev
 
 Open your browser and visit http://localhost:3000.
