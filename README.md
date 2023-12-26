@@ -55,8 +55,8 @@ Nuxt.js: Vue.js framework for building modern web applications.
 Tailwind CSS: Utility-first CSS framework for designing responsive and stylish interfaces.
 PrimeVue: Vue.js UI library with a set of rich components.
 
-Author
-Mahmoud Hamed
+Author 
+Mahmoud Hamed.
 
 License
 This project is licensed under the MIT License.
