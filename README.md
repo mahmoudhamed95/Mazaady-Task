@@ -1,38 +1,47 @@
-Mazady Task
+# Mazady Task
 
-Project Overview
+## Project Overview
+
 This project is a web application developed using Nuxt.js, Tailwind CSS, and PrimeVue. It implements various features, including user profiles, product listings, and a form for submitting tasks.
 
-Features
-User Profile
-Display user information, including avatar, name, role, followers, and following.
-Provide a "Follow" button to interact with the user profile.
+## Features
 
-Product Listings
-Show a list of products with details such as title, starting price, countdown, and favorite button.
-Allow dynamic generation of product lists and loop through them.
-Display a ribbon on the bottom right of the product image with a category label.
+### User Profile
 
-Additional UI Components
-Create a responsive layout using Tailwind CSS grid system.
+- Display user information, including avatar, name, role, followers, and following.
+- Provide a "Follow" button to interact with the user profile.
 
-Use Tailwind CSS classes for styling, including gradients and shadows.
+### Product Listings
 
-QR Code Section
-Display a QR code with an option to toggle additional sections.
+- Show a list of products with details such as title, starting price, countdown, and favorite button.
+- Allow dynamic generation of product lists and loop through them.
+- Display a ribbon on the bottom right of the product image with a category label.
 
+### Additional UI Components
 
+- Create a responsive layout using Tailwind CSS grid system.
+- Use Tailwind CSS classes for styling, including gradients and shadows.
 
-Form Task
-Implement a form with dropdowns for selecting main and subcategories.
-Include properties dropdowns with options and the ability to select "Other" and provide a custom value.
-Fetch subcategories and properties dynamically based on the user's selection.
-Display selected values in a table.
-Submit button to process and display the form data.
+### QR Code Section
 
-Clone the repository:
+- Display a QR code with an option to toggle additional sections.
+- Include buttons for actions such as viewing, sharing, and downloading the QR code.
+- Add a section for downloading the QR code or sharing it with friends.
 
-git clone https://github.com/mahmoudhamed95/Mazaady-Task.git
+### Form Task
+
+- Implement a form with dropdowns for selecting main and subcategories.
+- Include properties dropdowns with options and the ability to select "Other" and provide a custom value.
+- Fetch subcategories and properties dynamically based on the user's selection.
+- Display selected values in a table.
+- Submit button to process and display the form data.
+
+## Usage
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/mahmoudhamed95/Mazaady-Task.git
 
 Install dependencies:
 
